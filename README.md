@@ -1,0 +1,1 @@
+# minecraft_nukkit_auto_update
